@@ -1,0 +1,22 @@
+{
+    "baremeClassic": {
+      "tauxNominal": 9.5,
+      "periodicite": 1,
+      "dureeminMois": 84,
+      "dureeMaxMois": 144,
+      "returnMessage": "OK",
+      "returnCode": "0000"
+    },
+    "baremeOffer": {
+      "codeOffre": "OF001",
+      "codeProduit": "P001",
+      "tauxVR": "1",
+      "codeNatureBien": "VT01",
+      "tauxNominal": 7,
+      "periodicite": 1,
+      "dureeminMois": 36,
+      "dureeMaxMois": 60,
+      "returnMessage": "",
+      "returnCode": "0000"
+    }
+}
