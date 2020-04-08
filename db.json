@@ -3,7 +3,7 @@
       "tauxNominal": 9.5,
       "periodicite": 1,
       "dureeminMois": 84,
-      "dureeMaxMois": 132,
+      "dureeMaxMois": 144,
       "returnMessage": "OK",
       "returnCode": "0000"
     },
@@ -15,7 +15,7 @@
       "tauxNominal": 7,
       "periodicite": 1,
       "dureeminMois": 36,
-      "dureeMaxMois": 84,
+      "dureeMaxMois": 72,
       "returnMessage": "",
       "returnCode": "0000"
     }
