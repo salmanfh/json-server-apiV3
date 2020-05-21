@@ -20,6 +20,7 @@
       "returnCode": "0000"
     },
     "simulationLibre":{
+   "id": 1,
   "typePersonne": "Physique",
   "chiffreCles": "800000",
   "montantHT": "100000",
