@@ -21,7 +21,7 @@
     },
     "simulationLibre":{
         "id": 1,
-        "reference": "S-0001"
+        "reference": "S-0001",
         "montantHT": "100000",
         "natureBien": {
             "id": 0,
