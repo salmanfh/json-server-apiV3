@@ -20,30 +20,31 @@
       "returnCode": "0000"
     },
     "simulationLibre":{
-   "id": 1,
-  "typePersonne": "Physique",
-  "chiffreCles": "800000",
-  "montantHT": "100000",
-  "natureBien": {
-    "id": 0,
-    "bienid": 0,
-    "code": "IB",
-    "libelle": "Automobile",
-    "tauxVR": 10,
-    "libelleCourt": "IMMEUBLE B",
-    "categorieContrat": "CBI"
-  },
-  "simulation": {
-    "taux": "MAD",
-    "firstLoyer": "1200",
-    "duree": 120
-  },
-  "customer": {
-    "RS": "PCA",
-    "Nom": "FAHMI",
-    "Prenom": "SALMAN",
-    "Tel": "0654343768",
-    "Email": "sfahmi@pca.ma"
-  }
+        "id": 1,
+        "reference": "S-0001"
+        "montantHT": "100000",
+        "natureBien": {
+            "id": 0,
+            "bienid": 0,
+            "code": "IB",
+            "libelle": "Automobile",
+            "tauxVR": 10,
+            "libelleCourt": "IMMEUBLE B",
+            "categorieContrat": "CBI"
+        },
+      "simulation": {
+        "taux": "MAD",
+        "firstLoyer": "1200",
+        "duree": 120
+      },
+      "customer": {
+        "TypeClient": "Physique",
+        "RS": "PCA",
+        "Nom": "FAHMI",
+        "Prenom": "SALMAN",
+        "Tel": "0654343768",
+        "Email": "sfahmi@pca.ma",
+        "ChiffreAffaire": "1000000"
+      }
 }
 }
