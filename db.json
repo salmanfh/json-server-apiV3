@@ -22,7 +22,7 @@
     "simulationLibre":{
         "id": 1,
         "reference": "S-0001",
-        "montantHT": "100000",
+        "montantFinancementHT": "100000",
         "natureBien": {
             "id": 0,
             "bienid": 0,
@@ -32,11 +32,14 @@
             "libelleCourt": "IMMEUBLE B",
             "categorieContrat": "CBI"
         },
-      "simulation": {
+      "simulation": [{
         "taux": "MAD",
         "firstLoyer": "1200",
-        "duree": 120
-      },
+        "duree": 120,
+        "montantVR": 1000,
+        "montantEcheanceHT": 1472.44,
+        "montantEcheanceTTC": 1766.93
+      }],
       "customer": {
         "TypeClient": "Physique",
         "RS": "PCA",
